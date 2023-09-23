@@ -4,7 +4,7 @@ namespace MrEduar\Balance;
 
 use Illuminate\Database\Eloquent\Model;
 
-class SandbboxBalance extends Model
+class SandboxBalance extends Model
 {
     /**
      * The attributes that are mass assignable.
